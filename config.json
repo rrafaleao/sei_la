@@ -6,20 +6,21 @@
     "pt":{
         "greeting": "Olá, mundo!",
         "farewell": "Adeus!"
-    }
+    },
     "es":{
-     "greeting": "Hola, mundo!",
+        "greeting": "Hola, mundo!",
         "farewell": "Adios!"
-    }
+    },
     "fr":{
-     "greeting": "Bonjour le monde!",
+        "greeting": "Bonjour le monde!",
         "farewell": "Au revoir!"
-    }
+    },
     "Dn":{
-     "greeting": "Hej verden!",
+        "greeting": "Hej verden!",
         "farewell": "Farvel!"
-    }
+    },
     "gm":{
-     "greeting": "Hallo Welt!",
+        "greeting": "Hallo Welt!",
         "farewell": "Verabschiedung!"
+    }
 }
